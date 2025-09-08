@@ -1,16 +1,27 @@
 Exercise 1:
 
 Processor (CPU) brand, model, and number of cores 
+
 INTEL CORE I7 14 CORES
+
 Total RAM amount and type (DDR4/DDR5) 
+
 16 DDR5
+
 Storage device type (HDD/SSD) and capacity 
+
 SSD 512 GBS
+
 Based on your CPU cores, how many tasks can your processor theoretically handle simultaneously?
+
 14 tasks at once (one per core).
+
 Is your storage primarily HDD or SSD? What are the performance implications?
+
 My storage is only SSD that means that its performance it is better and have a longer durability
+
 How does your RAM amount compare to typical requirements for modern applications?
+
 I think that my RAM can work properly in almost all the applications, because it has the latest DDR5 technology and 16 are enough for all the programs that I have.
 
 Exercise 2:
